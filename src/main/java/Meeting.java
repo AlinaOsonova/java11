@@ -14,11 +14,11 @@ public class Meeting extends Task {
         return topic;
     }
 
-    public String getProject () {
+    public String getProject() {
         return project;
     }
 
-    public String getStart () {
+    public String getStart() {
         return start;
     }
 
